@@ -1,0 +1,4 @@
+Facade Design Pattern:
+-It provides a simple interface to a complex functionality.
+-It removes the need for complex Object/Memory management.
+-It simplifies Client implementation.

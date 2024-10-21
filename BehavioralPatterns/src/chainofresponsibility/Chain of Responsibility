@@ -1,0 +1,6 @@
+Chain of Responsibility Design Pattern:
+-The chain of responsibility basically allows us to define a number of components  that can process the request in someway, either consume the request or add something to it and pass it on to the next handler or whatever...
+-It define a chain of handlers to process a request.
+-Each handler contains a reference to the next handler.
+-Each handler decides to process the request AND/OR pass it on
+-Requests can be of different types.

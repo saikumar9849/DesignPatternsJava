@@ -1,0 +1,6 @@
+Visitor Design Pattern:
+-It basically says that when we have some piece of software that is large and established with multiple components, and let's say we want to add some common functionality to those multiple components, then it is better to put that functionality in a seperate component and then access the existing components to add the new functionality.
+-There is a separation here between the algorithm and the Objects that they operate on.
+-we have 2 concepts: visitor and element(Visitable).
+-The element accepts visitor type objects.
+-visitor performs the operation on the element objects.

@@ -1,0 +1,6 @@
+Bridge Design Pattern:
+-Bridge Pattern is very useful when we have multiple inheritance in our system.
+-Having classes with multiple orthogonal traits exponentially increases the size of the inheritance tree. (The more we add dimensions to our classes, the more it grows exponentially)
+-Bridge actually does is convert from inheritance to composition (Composition means -> having them inside our classes as parameter)
+-we split into multiple interfaces / classes
+-Then we "Associate them using a Bridge reference".

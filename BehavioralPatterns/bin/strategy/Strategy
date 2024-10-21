@@ -1,0 +1,6 @@
+Strategy Design Pattern:
+-It is very useful when we have multiple ways of performing some function or handling some data in our application.
+-In this A class behavior or algorithm can be changed at runtime.
+-Objects contains algorithm logic
+-The context Object can handle algorithm Object.
+-This is useful when we want to be able to add functionality without changing program Structure.

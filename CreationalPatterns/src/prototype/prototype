@@ -1,0 +1,6 @@
+Prototype Design Pattern (Cloning or Copying of Objects):
+It basically "allow us to copy existing Objects" in a reliable way.
+we don't need to depend on the particularities of their classes.
+It is quite useful to relay on a single interface (Only reliant on interface).
+The copied Object must provide the copy functionality
+This is "useful in testing and pre-production".

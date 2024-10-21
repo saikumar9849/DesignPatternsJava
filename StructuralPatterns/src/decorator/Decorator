@@ -1,0 +1,4 @@
+Decorator / Wrapper Design Pattern:
+-It allows us to add some new behavior to existing Objects, to existing functionality. (Attach new behavior to an Object).
+-It Allows us to do this without modifying existing code. (without altering existing code)
+-It also allows us to modify existing functionality (Overriding behavior)

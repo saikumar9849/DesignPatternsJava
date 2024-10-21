@@ -1,0 +1,6 @@
+Proxy Design Pattern:
+-It allows us to basically have an interface or a another Object in front of some functionality in our code of one or more Objects.
+-we provide some functionality before and/or after calling an object.
+-The main idea behind the proxy is that it has the "same interface as the original Object".
+-It is "Similar to facade, except the proxy has the same interface".
+-It is "Similar to decorate, except the proxy manages the lifecycle of it's object".

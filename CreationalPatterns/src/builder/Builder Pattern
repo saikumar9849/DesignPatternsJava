@@ -1,0 +1,5 @@
+Builder Design Pattern:
+It is used when we have multiple parameters to initialize
+The more parameters we have, it's impractical to build all constructors (e.g:- 5 parameters combinations -> 120 possible constructor of different types)
+It's especially useful when we have optional parameters, when we don't need to initialize of the parameters in certain situations and we want them in other situations
+It should be easy to read

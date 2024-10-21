@@ -1,0 +1,12 @@
+Singleton Pattern:
+It requires only one Instance
+It's a single point of access for a resource
+
+Uses: Network Manager, Database access, Logging, Utility class(es)
+
+5 ways we can implement Singleton
+1. Eager Initialization
+2. static Block Initialization
+3. Lazy Initialization
+4. ThreadSafe Initialization
+5. BillPugh Initialization

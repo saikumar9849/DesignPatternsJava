@@ -1,0 +1,4 @@
+Composite Design Pattern:
+-Composite works really well when we have tree structures within our system. (Compose objects into Tree structures).
+-It works when the core functionality can be represented as a tree.
+-Manipulate many Objects as a Single one.

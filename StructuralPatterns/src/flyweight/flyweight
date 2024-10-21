@@ -1,0 +1,5 @@
+Flyweight Design Pattern:
+-The idea behind flyweight design pattern is, we remove whatever duplicate information we have in our memory, we store that in some shape or form and then we only have the information that we require in our memory.
+-This applies really well to situations where we have a "Lot of similar Objects".
+-It reduce memory footPrint.
+-Efficiency.

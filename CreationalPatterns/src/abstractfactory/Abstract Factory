@@ -1,0 +1,5 @@
+Abstract Factory Design pattern:
+It is basically one level of abstraction above the factory method design pattern
+Provides a way to access functionality without caring about implementation
+Separation of concerns
+Allows for testability

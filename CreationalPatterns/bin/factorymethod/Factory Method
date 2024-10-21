@@ -1,0 +1,10 @@
+Factory Method Design Pattern:
+Design logic is hidden from client.
+Many Subclass types, only one instance required.
+Creation is removed from client
+Useful for frequent code changes
+
+How to implement:
+1. Interface or abstract class that defines the common functionality
+2. Interface implementation
+3. factory class that instantiates the right implementation

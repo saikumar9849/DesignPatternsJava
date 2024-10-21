@@ -1,0 +1,7 @@
+Memento Design Pattern:
+-It specially created to handle, undo and redo operations.
+-It save and restore previous state without revealing implementation details.
+-It has 3 components:
+	1. Memento - stores the state
+	2. Originator - creates the state
+	3. caretaker - decides to save or restore the state
