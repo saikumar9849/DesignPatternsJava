@@ -1,0 +1,3 @@
+Iterator Design Pattern:
+-It provides a way to access element of collection sequentially without exposing the underlying representation of collection.
+-It is just like a iterator in java collections.

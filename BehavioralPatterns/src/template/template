@@ -1,0 +1,2 @@
+Template Design Pattern:
+-It is used, when we want all classes to follow specific steps to process the tasks but provide flexibility that each class can have their own logic in that specific step.
