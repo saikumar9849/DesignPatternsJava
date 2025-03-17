@@ -1,7 +1,8 @@
 Memento Design Pattern:
+--Definition: Provides an ability to revert an object to previous state i.e., UNDO capability. and it does not expose the object internal implementation.
 -It specially created to handle, undo and redo operations.
 -It save and restore previous state without revealing implementation details.
 -It has 3 components:
-	1. Memento - stores the state
-	2. Originator - creates the state
-	3. caretaker - decides to save or restore the state
+	1. Memento - stores the state (It represents an Object which holds the state of the Originator.)
+	2. Originator - creates the state (It represents the object, for which state need to be saved and restored, Expose methods to Save and Restore its state using Memento object.)
+	3. caretaker - decides to save or restore the state (Manages the list of states (i.e. list of Memento)

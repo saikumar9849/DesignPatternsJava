@@ -1,3 +1,4 @@
 Adapter Design Pattern:
+--Definition: This pattern acts as a bridge or intermediate between 2 incompatible interfaces.
 -It converts the interface of a class into another interface the client expects.
 -It converts data from one format into another

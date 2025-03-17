@@ -1,4 +1,5 @@
 Strategy Design Pattern:
+--Definition: Helps to define multiple algorithm for the task and we can select any algorithm depending on the situation.
 -It is very useful when we have multiple ways of performing some function or handling some data in our application.
 -In this A class behavior or algorithm can be changed at runtime.
 -Objects contains algorithm logic

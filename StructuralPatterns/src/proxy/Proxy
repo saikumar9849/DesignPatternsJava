@@ -1,4 +1,5 @@
 Proxy Design Pattern:
+--Definition: This pattern helps to provide control access to original object.
 -It allows us to basically have an interface or a another Object in front of some functionality in our code of one or more Objects.
 -we provide some functionality before and/or after calling an object.
 -The main idea behind the proxy is that it has the "same interface as the original Object".

@@ -1,4 +1,5 @@
 State Design pattern:
+--Definition: allows an Object to alter its behaviour when its internal state changes.
 -The state design pattern is basically the idea of a finite state machine that is a machine or in our case, an algorithm that has a finite number of states that it can be in at a certain time.
 -It says that An object changes its behavior based on an internal state.
 -At any moment, there's a finite number of states a program can be in.

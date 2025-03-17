@@ -1,4 +1,5 @@
 Bridge Design Pattern:
+--Definition: This pattern helps to decouple an abstraction from its implementation, so that two can vary independently.
 -Bridge Pattern is very useful when we have multiple inheritance in our system.
 -Having classes with multiple orthogonal traits exponentially increases the size of the inheritance tree. (The more we add dimensions to our classes, the more it grows exponentially)
 -Bridge actually does is convert from inheritance to composition (Composition means -> having them inside our classes as parameter)

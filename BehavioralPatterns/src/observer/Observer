@@ -1,4 +1,5 @@
 Observer Design Pattern:
+--Definition: In this an object(Observable) maintains a list of its dependents(observers) and notifies them of any changes in its state.
 -It is one of the pattern that are used extensively in software Development.
 -It is basically "Define a subscription mechanism" similarly to how we would subscription to some notifications on our phone.
 -we can "Notify multiple Objects simultaneously"

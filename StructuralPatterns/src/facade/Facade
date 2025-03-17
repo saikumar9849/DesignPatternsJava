@@ -1,4 +1,5 @@
 Facade Design Pattern:
+--Definition: This pattern helps to hide the system complexity from client.
 -It provides a simple interface to a complex functionality.
 -It removes the need for complex Object/Memory management.
 -It simplifies Client implementation.

@@ -1,4 +1,5 @@
 Decorator / Wrapper Design Pattern:
+--Definition: This pattern helps to add more functionality to existing object, without changing its structure.
 -It allows us to add some new behavior to existing Objects, to existing functionality. (Attach new behavior to an Object).
 -It Allows us to do this without modifying existing code. (without altering existing code)
 -It also allows us to modify existing functionality (Overriding behavior)

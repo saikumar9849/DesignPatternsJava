@@ -1,4 +1,5 @@
 Command Design Pattern:
+--Definition: Turns requests(commands) into objects, allowing us to either parametrized or queue them. This will help to decouple the request Sender and receiver.
 -Basically the command is wrapper that wraps an object and all the required information to process that command. (A request is wrapped in an object that contains all request info).
 -The command Object is passed to the correct handler.
 -Decoupling is major benefit in this.

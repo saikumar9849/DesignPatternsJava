@@ -8,5 +8,3 @@ Types of design patterns:
 1. Creational - relates to creating objects in our code.
 2. Structural - relates to how we structure components in our application and how those components interact with each other.
 3. Behavioral - (relates to how Objects behave in our code).
-
-<-- Creational Patterns -->

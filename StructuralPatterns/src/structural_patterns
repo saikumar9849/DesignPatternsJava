@@ -1,0 +1,11 @@
+Structural Design Patterns:
+--Definition: Structural design pattern is a way to combine or arrange different classes and objects to form a complex or bigger structure to solve a particular requirement.
+
+Types:
+1.Decorator Pattern
+2.Proxy Pattern
+3.Composite Pattern
+4.Adapter Pattern
+5.Bridge Pattern
+6.Facade
+7.Flyweight
